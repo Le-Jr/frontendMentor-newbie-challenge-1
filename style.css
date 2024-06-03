@@ -1,0 +1,61 @@
+
+body{
+    font-family: "Young Serif", serif;
+    font-weight: 400, 600, 700;
+    font-size: 16px;
+    width: 1440px;
+    background-color: rgb(248, 201, 209);
+}
+
+h1{
+    margin-top: 40px;
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+.high{
+font-weight: bold;
+
+}
+
+
+.container{
+    background-color: white;
+    width: 700px;
+    border-radius: 15px;
+    margin-left: 500px;
+    margin-top: 200px;
+    line-height: 30px;
+}
+
+img{
+    width: 650px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.img-top{
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.font{
+    font-family: "Outfit", sans-serif;
+}
+
+.list{
+    margin-left: 50px;
+}
+
+.padd{
+    padding: 20px 0px;
+}
+
+.fini{
+    padding-bottom: 30px;
+}
